@@ -1,0 +1,13 @@
+.header-contains {
+  display: flex;
+  justify-content: space-between;
+  background-color: brown;
+}
+nav {
+  padding: 5px 20px;
+}
+
+.card-image {
+  max-width: 100%;
+  height: 12em;
+}
